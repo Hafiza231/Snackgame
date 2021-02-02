@@ -14,3 +14,18 @@
      align-items: flex-end;
      min-height: 70vh;
  } 
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    min-height: 60vh;
+ }
+ #playAgain{
+     background-color:rgb(49, 168, 49);
+     height: 40px;
+     color:white;
+     font-weight: 500;
+     border: none;
+     width: 100px;
+     cursor: pointer;
+ }
