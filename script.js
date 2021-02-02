@@ -142,3 +142,6 @@ const board_border = 'black';
         snake.pop();
       }
     }
+ function refresh(){
+      location.reload();
+    }
